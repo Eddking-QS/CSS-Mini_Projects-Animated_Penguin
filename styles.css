@@ -262,3 +262,14 @@ body {
     margin-top: -58px;
     height: calc(100vh - 300px);
 }
+
+.text {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
